@@ -27,7 +27,7 @@ public class DriverFactory {
         }
     }
 
-    public AppiumDriver<MobileElement> getDriver(){
+    public AppiumDriver<MobileElement> pegaDriver(){
         return driver;
     }
 
